@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tyler\\OneDrive\\Microsoft Copilot Chat Files\\Desktop\\CIS153_FinalProject-C4\\ConnectFourProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFD8704-4ED0-4F46-A9DE-FD8D196ADC89}|ConnectFourProject\\ConnectFourProject.csproj|c:\\users\\tyler\\onedrive\\microsoft copilot chat files\\desktop\\cis153_finalproject-c4\\connectfourproject\\connectfourproject\\vsrobot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFD8704-4ED0-4F46-A9DE-FD8D196ADC89}|ConnectFourProject\\ConnectFourProject.csproj|solutionrelative:connectfourproject\\vsrobot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFD8704-4ED0-4F46-A9DE-FD8D196ADC89}|ConnectFourProject\\ConnectFourProject.csproj|c:\\users\\tyler\\onedrive\\microsoft copilot chat files\\desktop\\cis153_finalproject-c4\\connectfourproject\\connectfourproject\\vsplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFD8704-4ED0-4F46-A9DE-FD8D196ADC89}|ConnectFourProject\\ConnectFourProject.csproj|solutionrelative:connectfourproject\\vsplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFD8704-4ED0-4F46-A9DE-FD8D196ADC89}|ConnectFourProject\\ConnectFourProject.csproj|c:\\users\\tyler\\onedrive\\microsoft copilot chat files\\desktop\\cis153_finalproject-c4\\connectfourproject\\connectfourproject\\vsrobot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9AFD8704-4ED0-4F46-A9DE-FD8D196ADC89}|ConnectFourProject\\ConnectFourProject.csproj|solutionrelative:connectfourproject\\vsrobot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFD8704-4ED0-4F46-A9DE-FD8D196ADC89}|ConnectFourProject\\ConnectFourProject.csproj|c:\\users\\tyler\\onedrive\\microsoft copilot chat files\\desktop\\cis153_finalproject-c4\\connectfourproject\\connectfourproject\\vsplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9AFD8704-4ED0-4F46-A9DE-FD8D196ADC89}|ConnectFourProject\\ConnectFourProject.csproj|solutionrelative:connectfourproject\\vsplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFD8704-4ED0-4F46-A9DE-FD8D196ADC89}|ConnectFourProject\\ConnectFourProject.csproj|c:\\users\\tyler\\onedrive\\microsoft copilot chat files\\desktop\\cis153_finalproject-c4\\connectfourproject\\connectfourproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFD8704-4ED0-4F46-A9DE-FD8D196ADC89}|ConnectFourProject\\ConnectFourProject.csproj|solutionrelative:connectfourproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFD8704-4ED0-4F46-A9DE-FD8D196ADC89}|ConnectFourProject\\ConnectFourProject.csproj|c:\\users\\tyler\\onedrive\\microsoft copilot chat files\\desktop\\cis153_finalproject-c4\\connectfourproject\\connectfourproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9AFD8704-4ED0-4F46-A9DE-FD8D196ADC89}|ConnectFourProject\\ConnectFourProject.csproj|solutionrelative:connectfourproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFD8704-4ED0-4F46-A9DE-FD8D196ADC89}|ConnectFourProject\\ConnectFourProject.csproj|c:\\users\\tyler\\onedrive\\microsoft copilot chat files\\desktop\\cis153_finalproject-c4\\connectfourproject\\connectfourproject\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFD8704-4ED0-4F46-A9DE-FD8D196ADC89}|ConnectFourProject\\ConnectFourProject.csproj|solutionrelative:connectfourproject\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFD8704-4ED0-4F46-A9DE-FD8D196ADC89}|ConnectFourProject\\ConnectFourProject.csproj|c:\\users\\tyler\\onedrive\\microsoft copilot chat files\\desktop\\cis153_finalproject-c4\\connectfourproject\\connectfourproject\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFD8704-4ED0-4F46-A9DE-FD8D196ADC89}|ConnectFourProject\\ConnectFourProject.csproj|solutionrelative:connectfourproject\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VsPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\tyler\\OneDrive\\Microsoft Copilot Chat Files\\Desktop\\CIS153_FinalProject-C4\\ConnectFourProject\\ConnectFourProject\\VsPlayer.cs",
+              "RelativeDocumentMoniker": "ConnectFourProject\\VsPlayer.cs",
+              "ToolTip": "C:\\Users\\tyler\\OneDrive\\Microsoft Copilot Chat Files\\Desktop\\CIS153_FinalProject-C4\\ConnectFourProject\\ConnectFourProject\\VsPlayer.cs",
+              "RelativeToolTip": "ConnectFourProject\\VsPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:41:07.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VsRobot.cs",
+              "DocumentMoniker": "C:\\Users\\tyler\\OneDrive\\Microsoft Copilot Chat Files\\Desktop\\CIS153_FinalProject-C4\\ConnectFourProject\\ConnectFourProject\\VsRobot.cs",
+              "RelativeDocumentMoniker": "ConnectFourProject\\VsRobot.cs",
+              "ToolTip": "C:\\Users\\tyler\\OneDrive\\Microsoft Copilot Chat Files\\Desktop\\CIS153_FinalProject-C4\\ConnectFourProject\\ConnectFourProject\\VsRobot.cs",
+              "RelativeToolTip": "ConnectFourProject\\VsRobot.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowCkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:41:05.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cell.cs",
+              "DocumentMoniker": "C:\\Users\\tyler\\OneDrive\\Microsoft Copilot Chat Files\\Desktop\\CIS153_FinalProject-C4\\ConnectFourProject\\ConnectFourProject\\Cell.cs",
+              "RelativeDocumentMoniker": "ConnectFourProject\\Cell.cs",
+              "ToolTip": "C:\\Users\\tyler\\OneDrive\\Microsoft Copilot Chat Files\\Desktop\\CIS153_FinalProject-C4\\ConnectFourProject\\ConnectFourProject\\Cell.cs",
+              "RelativeToolTip": "ConnectFourProject\\Cell.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:38:37.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\tyler\\OneDrive\\Microsoft Copilot Chat Files\\Desktop\\CIS153_FinalProject-C4\\ConnectFourProject\\ConnectFourProject\\Board.cs",
+              "RelativeDocumentMoniker": "ConnectFourProject\\Board.cs",
+              "ToolTip": "C:\\Users\\tyler\\OneDrive\\Microsoft Copilot Chat Files\\Desktop\\CIS153_FinalProject-C4\\ConnectFourProject\\ConnectFourProject\\Board.cs",
+              "RelativeToolTip": "ConnectFourProject\\Board.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwM8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:38:31.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VsPlayer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tyler\\OneDrive\\Microsoft Copilot Chat Files\\Desktop\\CIS153_FinalProject-C4\\ConnectFourProject\\ConnectFourProject\\VsPlayer.cs",
+              "RelativeDocumentMoniker": "ConnectFourProject\\VsPlayer.cs",
+              "ToolTip": "C:\\Users\\tyler\\OneDrive\\Microsoft Copilot Chat Files\\Desktop\\CIS153_FinalProject-C4\\ConnectFourProject\\ConnectFourProject\\VsPlayer.cs [Design]",
+              "RelativeToolTip": "ConnectFourProject\\VsPlayer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:37:37.205Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VsRobot.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tyler\\OneDrive\\Microsoft Copilot Chat Files\\Desktop\\CIS153_FinalProject-C4\\ConnectFourProject\\ConnectFourProject\\VsRobot.cs",
+              "RelativeDocumentMoniker": "ConnectFourProject\\VsRobot.cs",
+              "ToolTip": "C:\\Users\\tyler\\OneDrive\\Microsoft Copilot Chat Files\\Desktop\\CIS153_FinalProject-C4\\ConnectFourProject\\ConnectFourProject\\VsRobot.cs [Design]",
+              "RelativeToolTip": "ConnectFourProject\\VsRobot.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:37:26.262Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\tyler\\OneDrive\\Microsoft Copilot Chat Files\\Desktop\\CIS153_FinalProject-C4\\ConnectFourProject\\ConnectFourProject\\Form1.cs",
+              "RelativeDocumentMoniker": "ConnectFourProject\\Form1.cs",
+              "ToolTip": "C:\\Users\\tyler\\OneDrive\\Microsoft Copilot Chat Files\\Desktop\\CIS153_FinalProject-C4\\ConnectFourProject\\ConnectFourProject\\Form1.cs",
+              "RelativeToolTip": "ConnectFourProject\\Form1.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAEwC0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:37:08.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tyler\\OneDrive\\Microsoft Copilot Chat Files\\Desktop\\CIS153_FinalProject-C4\\ConnectFourProject\\ConnectFourProject\\Form1.cs",
+              "RelativeDocumentMoniker": "ConnectFourProject\\Form1.cs",
+              "ToolTip": "C:\\Users\\tyler\\OneDrive\\Microsoft Copilot Chat Files\\Desktop\\CIS153_FinalProject-C4\\ConnectFourProject\\ConnectFourProject\\Form1.cs [Design]",
+              "RelativeToolTip": "ConnectFourProject\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:35:42.938Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
